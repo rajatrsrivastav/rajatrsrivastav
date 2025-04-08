@@ -64,17 +64,5 @@
   <img width="12" />
   <img height="50" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"/>
 </div>
-###
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatrsrivastav/rajatrsrivastav/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatrsrivastav/rajatrsrivastav/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rajatrsrivastav/rajatrsrivastav/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-</div>
-
 
 Feel free to connect via email at "rajatrsrivastav810@gmail.com" Let's collaborate and create something amazing! 😊🚀
