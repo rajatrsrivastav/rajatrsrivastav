@@ -26,7 +26,7 @@
 <h1 align="left">Socials</h1>
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/khuswant-rajpurohit-b749ba30a/](https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/rajatrsrivastav/">
   <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  />
   </a>
   <a href="https://discordapp.com/users/rocketleague02377">
