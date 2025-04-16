@@ -1,4 +1,5 @@
-## Hi 👋, I'm Rajat Srivastav
+## Hi 👋, I'm Rajat Srivastav 
+<span>Check out my <a href="https://rajatrsrivastav.github.io/Portfolio/">Portfolio</a></span>
 ## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive UI/UX
 
 <div align="center">
