@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Rajat Srivastav 
-<span>Check out my <a href="https://rajatrsrivastav.github.io/Portfolio/">Portfolio</a></span>
+<span>Check out my <a href="https://imaginative-entremet-451f94.netlify.app/">Portfolio</a></span>
 ## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive UI/UX
 
 <div align="center">
