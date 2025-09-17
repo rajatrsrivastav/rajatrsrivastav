@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px 0; width: 100%; max-width: 900px; margin: 0 auto; flex-wrap: nowrap;">
   <!-- Left side: Name -->
   <b style="font-size: 1.5rem; white-space: nowrap;">Hi 👋, I'm Rajat Srivastav</b>
-
   <!-- Right side: Social Icons -->
   <div style="display: flex; gap: 12px; white-space: nowrap;">
     <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
@@ -69,7 +68,7 @@ A Full Stack Engineer
 
 <div align=center>
   <span><a href="https://rajatsrivastav.site"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rajatrsrivastav&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <span><a href="https://rajatsrivastav.site"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rajatrsrivastav&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
+  <span><a href="https://rajatsrivastav.site"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rajatrsrivastav&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
   <span><a href="https://rajatsrivastav.site"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=rajatrsrivastav&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
   <span><a href="https://rajatsrivastav.site"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rajatrsrivastav&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
@@ -105,4 +104,5 @@ A Full Stack Engineer
     <img width="12" />
 </div>
 -->
+[![wakatime](https://wakatime.com/badge/user/6fd64351-7d45-4c00-942a-7e385e039e8f.svg)](https://wakatime.com/@6fd64351-7d45-4c00-942a-7e385e039e8f)
 
