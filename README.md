@@ -1,22 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px 0; width: 100%; max-width: 900px; margin: 0 auto; flex-wrap: nowrap;">
-  <!-- Left side: Name -->
   <b style="font-size: 1.5rem; white-space: nowrap;">Hi 👋, I'm Rajat Srivastav</b>
-  <!-- Right side: Social Icons -->
-  <div style="display: flex; gap: 12px; white-space: nowrap;">
-    <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" height="28" />
-    </a>
-    <a href="https://linkedin.com/in/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" height="28" />
-    </a>
-    <a href="https://github.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="28" />
-    </a>
-  </div>
 </div>
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,13 +18,28 @@ A Full Stack Engineer
 
 📫 How to reach me rajatrsrivastav810@gmail.com
 <br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Social</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <img height="500" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
+
+  <div style="display: flex; gap: 12px; white-space: nowrap;">
+    <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" height="28" />
+    </a>
+    <a href="https://linkedin.com/in/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" height="28" />
+    </a>
+    <a href="https://github.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="28" />
+    </a>
+  </div>
+
+  
+<br/>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<p align="left">
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://rajatsrivastav.site)
 
 <!--
