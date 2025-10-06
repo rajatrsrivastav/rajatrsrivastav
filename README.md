@@ -17,24 +17,6 @@ A Full Stack Engineer
 💬 Ask me about react.js, typescript, databases, node.js
 
 📫 How to reach me rajatrsrivastav810@gmail.com
-<br/>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Social</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<img height="500" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
-
-  <div style="display: flex; gap: 12px; white-space: nowrap;">
-    <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" height="28" />
-    </a>
-    <a href="https://linkedin.com/in/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" height="28" />
-    </a>
-    <a href="https://github.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="28" />
-    </a>
-  </div>
-
   
 <br/>
 
@@ -73,6 +55,7 @@ A Full Stack Engineer
 </div>
 <br>
 
+
 <!--
 <h1 align="left">Tech Stack</h1>
 
@@ -104,4 +87,22 @@ A Full Stack Engineer
 </div>
 -->
 [![wakatime](https://wakatime.com/badge/user/6fd64351-7d45-4c00-942a-7e385e039e8f.svg)](https://wakatime.com/@6fd64351-7d45-4c00-942a-7e385e039e8f)
+<br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Social</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img height="500" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
+
+  <div style="display: flex; gap: 12px; white-space: nowrap;">
+    <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" height="28" />
+    </a>
+    <a href="https://linkedin.com/in/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" height="28" />
+    </a>
+    <a href="https://github.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="28" />
+    </a>
+  </div>
+
 
