@@ -88,10 +88,9 @@ A Full Stack Engineer
 -->
 [![wakatime](https://wakatime.com/badge/user/6fd64351-7d45-4c00-942a-7e385e039e8f.svg)](https://wakatime.com/@6fd64351-7d45-4c00-942a-7e385e039e8f)
 <br/>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Social</b>
+[![An image of @rajatrsrivastav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajatrsrivastav)](https://holopin.io/@rajatrsrivastav)
+<b>Social</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<img height="500" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"  />
 
   <div style="display: flex; gap: 12px; white-space: nowrap;">
     <a href="https://x.com/rajatrsrivastav" target="_blank" rel="noopener noreferrer">
