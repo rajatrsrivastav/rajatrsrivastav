@@ -8,7 +8,7 @@ A Full Stack Engineer
 
 🔭 Check my portfolio at [rajatsrivastav.site](https://rajatsrivastav.site)
 
-🌱 I'm currently learning Web3 and a little bit of everything in tech
+🌱 I'm currently learning AI/ML and a little bit of everything in tech
 
 👨‍💻 All of my projects are available at [rajatsrivastav.site/projects](https://rajatsrivastav.site/projects)
 
