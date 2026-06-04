@@ -4,25 +4,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-A Full Stack Engineer
+A Full-Stack Developer
 
-🔭 Check my portfolio at [rajatsrivastav.site](https://rajatsrivastav.site)
+💼 Currently working as a Full Stack Engineer at Safcurl Technologies Private Limited
 
-🌱 I'm currently learning AI/ML and a little bit of everything in tech
+🔭 Check my portfolio at [rajatsrivastav.dev](https://rajatsrivastav.dev)
 
-👨‍💻 All of my projects are available at [rajatsrivastav.site/projects](https://rajatsrivastav.site/projects)
+🌱 I'm currently focusing on AI workflows (LangChain, LangGraph), cloud-native development, and system design
 
-📝 Creative Problem Solver & Exploring Open Source
+👨‍💻 All of my projects and contributions are available on [GitHub](https://github.com/rajatrsrivastav)
 
-💬 Ask me about react.js, typescript, databases, node.js
+📝 Passionate about backend engineering, DevOps, and building scalable, high-performance applications
 
-📫 How to reach me rajatrsrivastav810@gmail.com
+💬 Ask me about TypeScript, Node.js, FastAPI, Go, AWS, and Terraform
+
+📫 How to reach me: rajatrsrivastav810@gmail.com
   
 <br/>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://rajatsrivastav.site)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,py,nextjs,react,tailwind,nodejs,express,fastapi,prisma,postgres,supabase,mongodb,mysql,redis,aws,kubernetes,docker,git,github,jest,postman,figma,notion,vscode,vercel,vite,bash,linux)](https://rajatsrivastav.dev)
 
 <!--
 <div align="center">
@@ -43,18 +45,15 @@ A Full Stack Engineer
 </div>
 -->
 
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-  <span><a href="https://rajatsrivastav.site"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rajatrsrivastav&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <span><a href="https://rajatsrivastav.site"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rajatrsrivastav&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
-  <span><a href="https://rajatsrivastav.site"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=rajatrsrivastav&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
-  <span><a href="https://rajatsrivastav.site"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rajatrsrivastav&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
+  <span><a href="https://rajatsrivastav.dev"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rajatrsrivastav&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <span><a href="https://rajatsrivastav.dev"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=rajatrsrivastav&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://rajatsrivastav.dev"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rajatrsrivastav&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 <br>
-
 
 <!--
 <h1 align="left">Tech Stack</h1>
@@ -89,6 +88,7 @@ A Full Stack Engineer
 [![wakatime](https://wakatime.com/badge/user/6fd64351-7d45-4c00-942a-7e385e039e8f.svg)](https://wakatime.com/@6fd64351-7d45-4c00-942a-7e385e039e8f)
 <br/>
 [![An image of @rajatrsrivastav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajatrsrivastav)](https://holopin.io/@rajatrsrivastav)
+
 <b>Social</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -103,5 +103,3 @@ A Full Stack Engineer
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="28" />
     </a>
   </div>
-
-
