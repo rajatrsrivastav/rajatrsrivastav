@@ -10,13 +10,13 @@ A Full-Stack Developer
 
 🔭 Check my portfolio at [rajatsrivastav.dev](https://rajatsrivastav.dev)
 
-🌱 I'm currently focusing on AI workflows (LangChain, LangGraph), cloud-native development, and system design
+🌱 I'm currently focusing on cloud-native infrastructure (Kubernetes, AWS, Terraform), AI workflows (LangChain), and robust system design
 
 👨‍💻 All of my projects and contributions are available on [GitHub](https://github.com/rajatrsrivastav)
 
-📝 Passionate about backend engineering, DevOps, and building scalable, high-performance applications
+📝 Passionate about backend engineering, DevOps, and orchestrating resilient cloud infrastructure
 
-💬 Ask me about TypeScript, Node.js, FastAPI, Go, AWS, and Terraform
+💬 Ask me about Go, Kubernetes, AWS, Terraform, TypeScript, and backend architectures
 
 📫 How to reach me: rajatrsrivastav810@gmail.com
   
@@ -24,7 +24,7 @@ A Full-Stack Developer
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,py,nextjs,react,tailwind,nodejs,express,fastapi,prisma,postgres,supabase,mongodb,mysql,redis,aws,kubernetes,docker,git,github,jest,postman,figma,notion,vscode,vercel,vite,bash,linux)](https://rajatsrivastav.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,py,nextjs,react,tailwind,nodejs,express,fastapi,graphql,prisma,postgres,supabase,mongodb,mysql,redis,aws,kubernetes,docker,terraform,cloudflare,wasm,git,github,jest,postman,figma,notion,vscode,vercel,vite,bash,linux)](https://rajatsrivastav.dev)
 
 <!--
 <div align="center">
